@@ -16,4 +16,4 @@ Este es un proyecto de ejemplo para practicar el uso de Git.
 3. ¡Interactúa y aprende Git con cambios simples!
 
 
-se acaba de realizar un primer cambio
+se acaba de realizar el tercer cambio
