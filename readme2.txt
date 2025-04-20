@@ -14,3 +14,6 @@ Este es un proyecto de ejemplo para practicar el uso de Git.
 1. Clona este repositorio.
 2. Abre `index.html` en tu navegador.
 3. ¡Interactúa y aprende Git con cambios simples!
+
+
+se acaba de realizar un primer cambio
